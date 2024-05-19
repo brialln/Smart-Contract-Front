@@ -1,3 +1,7 @@
+# Smart-Contract-FrontEnd
+A smart contract with an added functionalities, such as show and hide address, as well as ETH transferring from another address.
+Made possible with the provided starter template of Mr. Chris of Metacrafters. 
+
 # Starter Next/Hardhat Project
 
 After cloning the github, you will want to do the following to get the code running on your computer.
@@ -10,3 +14,9 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+# Additional Information
+> Student Number: 8215752
+>> Student Email Address: 8215752@ntc.edu.ph
+>>> Student Name: Brian Allen Lusanta MAayor
+>>>> Institution: The National Teachers College
